@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportOptionalSubscript": "none"
+    },
+    "cSpell.words": [
+        "chromadb",
+        "metadatas"
+    ],
+}
